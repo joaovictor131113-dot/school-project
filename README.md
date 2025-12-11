@@ -1,2 +1,2 @@
 # school-project
-Python
+HTML/CSS/JS
